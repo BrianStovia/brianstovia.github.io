@@ -115,7 +115,7 @@ footer #social-icons li a:hover,
 .cbp-l-filters-alignRight .cbp-filter-counter:before,
 .cbp-l-filters-alignCenter .cbp-filter-counter:before,
 .cbp-l-filters-button .cbp-filter-counter:before {
-	border-top: 4px solid #ffffff;
+	border-top: 4px solid #ff0000;
 }
 .btn-primary-full {
     box-shadow: 0 -3px rgba(0, 0, 0, 0.4) inset;
