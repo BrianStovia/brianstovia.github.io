@@ -2276,12 +2276,12 @@ img.tp-slider-alternative-image {
 }
 .tparrows.preview4 .tp-arr-allwrapper {
    visibility: hidden;
-   width: 180px;
+   width: 0px;
    position: absolute;
    z-index: 1;
    min-height: 120px;
    top: 0;
-   left: -150px;
+   left: 0;
    overflow: hidden;
    -webkit-perspective: 1000px;
    -webkit-transform-style: flat

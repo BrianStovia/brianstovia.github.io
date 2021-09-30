@@ -795,7 +795,7 @@ nav {
     transition: all 0.4s ease;
 }
 @media (min-width: 1360px) {
-    nav { max-width: 1903px; }
+    nav { max-width: 3840; }
 }
 @media (max-width: 1360px) {
     nav { max-width: 1343px; }
