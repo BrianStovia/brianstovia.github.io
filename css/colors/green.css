@@ -15,7 +15,7 @@
    background: #ff2525;
 }
 .overlay {
-    background: rgba(145,218,50, 0.8);
+    background: rgba(217, 255, 0, 0.8);
 }
 .post-time-section .post-month .month {
 	background-color: #ff2525;
@@ -123,7 +123,7 @@ footer #social-icons li a:hover,
 .color-overlay,
 .btn-home a:hover,
 .btn-home a:focus {
-    background-color: rgba(178, 204, 2, 0.9);
+    background-color: rgba(221, 255, 0, 0.9);
 }
 .label-primary:after {
     border-bottom-color: #ff2525;
