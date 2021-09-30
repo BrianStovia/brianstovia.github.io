@@ -1627,7 +1627,7 @@ img.tp-slider-alternative-image {
    background: url(../img/assets/timer.png);
    position: absolute;
    z-index: 200;
-   top: 0
+   top: unset
 }
 .tp-bannertimer.tp-bottom {
    bottom: 0;
