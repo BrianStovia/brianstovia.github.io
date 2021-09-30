@@ -564,7 +564,7 @@ p {
     position: absolute;
     top: 0;
     left: 0;
-    bottom: 0;
+    bottom: auto;
     right: 0;
     z-index: 1;   
 }
@@ -871,7 +871,8 @@ nav {
 } 
 .navbar-alt .navbar-nav > li > a,
 .navbar-alt .navbar-nav > li > span {
-	color: #fff;
+	color: Black;
+    text-size-adjust: 20px;
     -webkit-transition: all 0.2s ease-in-out;
     -moz-transition: all 0.2s ease-in-out;
     -o-transition: all 0.2s ease-in-out;
